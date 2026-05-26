@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Lathi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Builder&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a78bfa,100:2dd4bf&height=200&section=header&text=Aditya%20Lathi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Builder&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Lathi;Full+Stack+Developer+%7C+AI%2FML+Builder;React+%7C+Node.js+%7C+Python+%7C+AWS;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -152,14 +152,14 @@ contact    : lathiaditya2018@gmail.com
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Omegaspark504/Omegaspark504/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Omegaspark504/Omegaspark504/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a78bfa,100:2dd4bf&height=100&section=footer&animation=twinkling)
 
 [![](https://komarev.com/ghpvc/?username=Omegaspark504&color=0e75b6&style=flat)](https://github.com/Omegaspark504)
 

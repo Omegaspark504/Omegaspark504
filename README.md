@@ -1,113 +1,168 @@
-<h2 align="left">Hi 👋! My name is Aditya Lathi and I'm a Full Stack Developer & AI/ML Builder, from Nashik, India 🇮🇳</h2>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Omegaspark504&label=Profile%20views&color=0e75b6&style=flat" alt="Omegaspark504" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Lathi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Builder&descAlignY=55&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Lathi;Full+Stack+Developer+%7C+AI%2FML+Builder;React+%7C+Node.js+%7C+Python+%7C+AWS;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omegaspark504&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Omegaspark504?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
-###
+</div>
 
-- 👨‍💻 All of my projects are available at **[https://ppw-hazel.vercel.app/](https://ppw-hazel.vercel.app/)**
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1r0d08Ssd4Om1hYS2jvFJPxclmE-LGgqI?usp=sharing](https://drive.google.com/drive/folders/1r0d08Ssd4Om1hYS2jvFJPxclmE-LGgqI?usp=sharing)**
-- 📫 Reach me at **lathiaditya2018@gmail.com**
+---
 
-###
+### 🧑‍💻 About Me
 
-<h3 align="left">🌐 Connect with me:</h3>
+```yaml
+name       : Aditya Lathi
+location   : Nashik, Maharashtra, India 🇮🇳
+education  : B.Tech CSE — VIT Chennai (2022–2026)
+role       : Full Stack Developer & AI/ML Builder
+club       : Content Head @ Photography Club VITC 📸
+status     : Open to internships — Full Stack / AI / Backend
+portfolio  : https://ppw-hazel.vercel.app
+resume     : https://drive.google.com/drive/folders/1r0d08Ssd4Om1hYS2jvFJPxclmE-LGgqI
+contact    : lathiaditya2018@gmail.com
+```
+
+- 🔭 Currently building **MediLingo** — multilingual healthcare NLP platform
+- 🌱 Learning **Blockchain**, **Advanced NLP** & **System Design**
+- ⚡ Creating bugs since **2022** and fixing most of them
+- 🎲 Fun fact: I frame shots with a camera and debug code with equal obsession 📸
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://github.com/Omegaspark504" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aditya-lathi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lathiaditya2018@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/Omegaspark504" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:lathiaditya2018@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
+  <a href="https://ppw-hazel.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+### 🛠 Tech Stack
 
-<h4 align="left">Languages</h4>
+#### Languages
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
-  <a href="https://cplusplus.com" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/></a>&nbsp;
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/></a>&nbsp;
+  <a href="https://www.cprogramming.com"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/></a>&nbsp;
+  <a href="https://cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
 </p>
 
-<h4 align="left">Frontend</h4>
+#### Frontend
 <p align="left">
-  <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://mui.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/></a>
+  <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>&nbsp;
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/></a>&nbsp;
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/></a>&nbsp;
+  <a href="https://mui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI"/></a>
 </p>
 
-<h4 align="left">Backend & Databases</h4>
+#### Backend & Databases
 <p align="left">
-  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/></a>&nbsp;
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/></a>&nbsp;
+  <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/></a>&nbsp;
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/></a>&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/></a>&nbsp;
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a>&nbsp;
+  <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/></a>
 </p>
 
-<h4 align="left">AI / ML / Data Science</h4>
+#### AI / ML / Data Science
 <p align="left">
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://opencv.org" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>
-  <a href="https://numpy.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://matplotlib.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://jupyter.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/></a>&nbsp;
+  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/></a>&nbsp;
+  <a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV"/></a>&nbsp;
+  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>&nbsp;
+  <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>&nbsp;
+  <a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/></a>&nbsp;
+  <a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"/></a>
 </p>
 
-<h4 align="left">Cloud, DevOps & Tools</h4>
+#### Cloud, DevOps & Tools
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/></a>&nbsp;
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/></a>&nbsp;
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>&nbsp;
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/></a>&nbsp;
+  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/></a>&nbsp;
+  <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/></a>&nbsp;
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/></a>&nbsp;
+  <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino"/></a>
 </p>
 
-###
+---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omegaspark504&show_icons=true&locale=en&layout=compact&theme=dark" alt="Omegaspark504" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omegaspark504&show_icons=true&locale=en&theme=dark" alt="Omegaspark504" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omegaspark504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegaspark504&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=Omegaspark504&theme=dark" alt="Omegaspark504" />
-</p>
+</div>
 
-###
+<div align="center">
 
-<br clear="both">
+  <img src="https://streak-stats.demolab.com/?user=Omegaspark504&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://raw.githubusercontent.com/Omegaspark504/Omegaspark504/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
-###
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🏷 Project | 📝 Description | 🔧 Stack |
+|-----------|---------------|---------|
+| 🏥 **MediLingo** | Multilingual healthcare NLP platform with symptom extraction & disease risk prediction | Python · TensorFlow · React · NLP |
+| ☁️ **PII Guard** | Cloud-native AI platform for real-time PII detection using AWS microservices | AWS · Docker · Flask · Microservices |
+| 🔐 **VerifyChain** | Decentralised credential verification using SHA-256 cryptographic hashing | Blockchain · Node.js · Cryptography |
+| 📊 **FinDash AI** | MERN stack financial analytics dashboard with live data viz & AI insights | MongoDB · Express · React · Node |
+| 🤖 **AI Lead Generator** | Auto-generates business leads via Google Maps API + email scraping | Flask · Python · BeautifulSoup |
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Omegaspark504/Omegaspark504/snake-output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+
+[![](https://komarev.com/ghpvc/?username=Omegaspark504&color=0e75b6&style=flat)](https://github.com/Omegaspark504)
+
+*"Clean code > clever code" — open to internships · let's build something 🚀*
+
+</div>

@@ -17,8 +17,8 @@
 
 ```yaml
 name       : Aditya Lathi
-location   : Aurangabad, Maharashtra, India 🇮🇳
-education  : B.Tech CSE — VIT Chennai (2023–2027)
+location   : Nashik, Maharashtra, India 🇮🇳
+education  : B.Tech CSE — VIT Chennai (2022–2026)
 role       : Full Stack Developer & AI/ML Builder
 club       : Content Head @ Photography Club VITC 📸
 status     : Open to internships — Full Stack / AI / Backend
@@ -120,14 +120,14 @@ contact    : lathiaditya2018@gmail.com
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Omegaspark504&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegaspark504&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omegaspark504&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegaspark504&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;count_private=true" height="165" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Omegaspark504&amp;theme=tokyonight&amp;hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omegaspark504&amp;theme=tokyonight&amp;hide_border=true" height="165" />
 
 </div>
 

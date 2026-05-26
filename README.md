@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;amp;color=0:58a6ff,50:a78bfa,100:2dd4bf&amp;amp;height=200&amp;amp;section=header&amp;amp;text=Aditya%20Lathi&amp;amp;fontSize=50&amp;amp;fontColor=fff&amp;amp;animation=twinkling&amp;amp;fontAlignY=35&amp;amp;desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Builder&amp;amp;descAlignY=55&amp;amp;descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Aditya%20Lathi&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Builder&amp;descAlignY=58&amp;descSize=16" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Lathi;Full+Stack+Developer+%7C+AI%2FML+Builder;React+%7C+Node.js+%7C+Python+%7C+AWS;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -118,6 +118,12 @@ contact    : lathiaditya2018@gmail.com
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Omegaspark504&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegaspark504&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;count_private=true" height="165" />
+
+</div>
 
 <div align="center">
 
@@ -153,7 +159,7 @@ contact    : lathiaditya2018@gmail.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;amp;color=0:58a6ff,50:a78bfa,100:2dd4bf&amp;amp;height=100&amp;amp;section=footer&amp;amp;animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58a6ff,50:a78bfa,100:2dd4bf&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%" />
 
 [![](https://komarev.com/ghpvc/?username=Omegaspark504&color=0e75b6&style=flat)](https://github.com/Omegaspark504)
 

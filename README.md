@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a78bfa,100:2dd4bf&height=200&section=header&text=Aditya%20Lathi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Builder&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;amp;color=0:58a6ff,50:a78bfa,100:2dd4bf&amp;amp;height=200&amp;amp;section=header&amp;amp;text=Aditya%20Lathi&amp;amp;fontSize=50&amp;amp;fontColor=fff&amp;amp;animation=twinkling&amp;amp;fontAlignY=35&amp;amp;desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Builder&amp;amp;descAlignY=55&amp;amp;descSize=18" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Lathi;Full+Stack+Developer+%7C+AI%2FML+Builder;React+%7C+Node.js+%7C+Python+%7C+AWS;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omegaspark504&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Omegaspark504?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Omegaspark504&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Omegaspark504?label=Followers&amp;style=flat&amp;color=0e75b6" alt="followers" />
 </p>
 
 </div>
@@ -38,19 +38,19 @@ contact    : lathiaditya2018@gmail.com
 
 <p align="left">
   <a href="https://github.com/Omegaspark504" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aditya-lathi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="mailto:lathiaditya2018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://leetcode.com/Omegaspark504" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" />
   </a>
   <a href="https://ppw-hazel.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
   </a>
 </p>
 
@@ -120,14 +120,14 @@ contact    : lathiaditya2018@gmail.com
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Omegaspark504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegaspark504&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omegaspark504&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegaspark504&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="165" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Omegaspark504&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Omegaspark504&amp;theme=tokyonight&amp;hide_border=true" height="165" />
 
 </div>
 
@@ -159,7 +159,7 @@ contact    : lathiaditya2018@gmail.com
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a78bfa,100:2dd4bf&height=100&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;amp;color=0:58a6ff,50:a78bfa,100:2dd4bf&amp;amp;height=100&amp;amp;section=footer&amp;amp;animation=twinkling" width="100%" />
 
 [![](https://komarev.com/ghpvc/?username=Omegaspark504&color=0e75b6&style=flat)](https://github.com/Omegaspark504)
 

@@ -17,7 +17,7 @@
 
 ```yaml
 name       : Aditya Lathi
-location   : Nashik, Maharashtra, India 🇮🇳
+location   : Aurangabad, Maharashtra, India 🇮🇳
 education  : B.Tech CSE — VIT Chennai (2022–2026)
 role       : Full Stack Developer & AI/ML Builder
 club       : Content Head @ Photography Club VITC 📸
